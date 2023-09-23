@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kaixo! I am Andoni 👋
+
+- 🔭 I just finished the Physics degree and I am currently studying the **MSc in  Quantum Technologies and Science** at Euskal Herriko Unibertsitatea
+- 📫 You can reach me via andonizaballa2001@gmail.com or [LinkedIn](www.linkedin.com/in/andonizaballa)
 
 <!--
 **andonizaballa/andonizaballa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
