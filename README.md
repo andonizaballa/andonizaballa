@@ -1,6 +1,5 @@
-### Kaixo! I am Andoni 👋
+### Hello! I am Andoni 👋
 
-- 🔭 I just finished the Physics degree and I am currently studying the **MSc in  Quantum Technologies and Science** at Euskal Herriko Unibertsitatea
 - 📫 You can reach me via andonizaballa2001@gmail.com or [LinkedIn](www.linkedin.com/in/andonizaballa)
 
 <!--
